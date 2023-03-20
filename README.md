@@ -2,6 +2,8 @@
 
 利用AWVS提供的Api编写的简单的脚本
 
+API信息来源：https://www.sqlsec.com/2020/04/awvsapi.html
+
 ## 使用方法
 
 修改`awvs_addres`和`awvs_api`，例如:
